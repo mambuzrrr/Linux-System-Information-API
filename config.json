@@ -1,0 +1,12 @@
+{
+    "port": 8123,
+    "endpoints": {
+      "stats": "/system-stats",
+      "cpu": "/cpu-info",
+      "memory": "/memory-info",
+      "disk": "/disk-info",
+      "network": "/network-info",
+      "load": "/load-info"
+    }
+  }
+  
